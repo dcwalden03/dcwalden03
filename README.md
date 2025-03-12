@@ -1,4 +1,10 @@
-## Hi there 👋
+# About me
+
+- I am a coumputer science student and some hobbies are flight simulator games, and tinkering with home lab. I have some experience in Java, Python, and C++.
+
+
+
+- added basic line of personal information
 
 <!--
 **dcwalden03/dcwalden03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
